@@ -6,10 +6,10 @@ const App = () => {
   return (
     <>
       <h1 data-ns-test="project-name">MovieList</h1>
-      <p data-ns-test="project-name">
+      <description data-ns-test="project-name">
         This app gives you the features to like the movie, add to watchlist, or
         remove from movielist.
-      </p>
+      </description>
     </>
   );
 };
